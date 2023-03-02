@@ -51,8 +51,8 @@ b.
 
 The Co-Sense unit has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168.
 
-<img src="https://coss.ethz.ch/research/CoCi/_jcr_content/par/twocolumn_561788407/par_left/fullwidthimage/image.imageformat.lightbox.1590428751.png" alt="ERC logo" style="height: 100px;"/>
-<img src="https://erc.europa.eu/sites/default/files/LOGO_ERC-FLAG_EU_.jpg" alt="ERC logo" style="height: 100px;"/>
+<img src="https://coss.ethz.ch/research/CoCi/_jcr_content/par/twocolumn_561788407/par_left/fullwidthimage/image.imageformat.lightbox.1590428751.png" alt="ERC logo" style="height: 200px; display: grid;"/>
+<img src="https://erc.europa.eu/sites/default/files/LOGO_ERC-FLAG_EU_.jpg" alt="ERC logo" style="height: 200px; display: grid;"/>
 
 
 Datathink is a graduate seminar on space and digitazion organized by organized by the UNESCO Chair in Urban Landscape at Université de Montréal in collaboration with Digital Visual Studies at Universität Zürich, and the Max-Planck Society and Biblioteca Hertziana in Rome.
