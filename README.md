@@ -36,12 +36,12 @@ Two possible usages:
 a.
 
 - Clone or download the repo.
-- Install Jupyter notebook / Jupyter lab in your local machine.
+- [Install Jupyter notebook / Jupyter lab in your local machine](https://jupyter.org/install).
 - Run the notebook.
 
 b.
 
-- Open Google Colab
+- Open [Google Colab](https://colab.research.google.com/).
 - Open new notebook and link to this repo: https://github.com/Reivajar/datathink_2023.git
 - Open the appropriate notebook. For the Rome version, open ***data_fusion_v4.ipynb***.
 - Download the csv generated files to your local machine directly from Colab files manager (panel on the left side of the browser).
