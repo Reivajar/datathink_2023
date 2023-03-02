@@ -1,4 +1,4 @@
-# Urban sensing and data integration at datathink_2023
+# Urban sensing and data integration at Datathink 2023
 *Created by Javier Argota Sánchez-Vaquerizo*<br>
 javier.argota@gess.ethz.ch
 
