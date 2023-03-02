@@ -1,13 +1,11 @@
-# datathink_2023
+# Urban sensing and data integration at datathink_2023
 *Created by Javier Argota Sánchez-Vaquerizo*
 
-Computational Social Science (**COSS**) at ETH Zürich
+[Computational Social Science](https://coss.ethz.ch/) (**COSS**) at ETH Zürich
 
-javier.argota@gess.ethz.ch
+javier.argota@gess.ethzm.ch
 
-
-27-Feb-2023 for Datathink 2023.
-Datathink is a graduate seminar on space and digitazion organized by organized by the UNESCO Chair in Urban Landscape at Université de Montréal in collaboration with Digital Visual Studies at Universität Zürich, and the Max-Planck Society and Biblioteca Hertziana in Rome.
+27-Feb-2023 for **Datathink 2023**.
 
 Repository for workshop on days 1 and 2.
 
@@ -51,4 +49,10 @@ b.
 
 ## Acknowledgments
 
-The Co-Sense unit has been designed by Dr. Sachit Mahajan at Computation Social Science as part of the Co-Evolving City Project (CoCi) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168.
+The Co-Sense unit has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168.
+
+<img src="https://coss.ethz.ch/research/CoCi/_jcr_content/par/twocolumn_561788407/par_left/fullwidthimage/image.imageformat.lightbox.1590428751.png" alt="ERC logo" style="height: 100px;"/>
+<img src="https://erc.europa.eu/sites/default/files/LOGO_ERC-FLAG_EU_.jpg" alt="ERC logo" style="height: 100px;"/>
+
+
+Datathink is a graduate seminar on space and digitazion organized by organized by the UNESCO Chair in Urban Landscape at Université de Montréal in collaboration with Digital Visual Studies at Universität Zürich, and the Max-Planck Society and Biblioteca Hertziana in Rome.
