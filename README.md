@@ -46,12 +46,14 @@ b.
 - Open the appropriate notebook. For the Rome version, open ***data_fusion_v4.ipynb***.
 - Download the csv generated files to your local machine directly from Colab files manager (panel on the left side of the browser).
 
+<img src="map_001.png" alt="map Kepler" style="height: 100%;"/>
+
 
 ## Acknowledgments
 
 The Co-Sense unit has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168.
 
-<img src="coci_erc_logo.jpg" alt="ERC logo" style="height: 200px;"/>
+<img src="coci_erc_logo.jpg" alt="CoCi ERC logo" style="height: 200px;"/>
 
 
 
