@@ -1,9 +1,10 @@
 # Urban sensing and data integration at datathink_2023
-*Created by Javier Argota Sánchez-Vaquerizo*
+*Created by Javier Argota Sánchez-Vaquerizo*<br>
+javier.argota@gess.ethz.ch
 
-[Computational Social Science](https://coss.ethz.ch/) (**COSS**) at ETH Zürich
+[**Computational Social Science**](https://coss.ethz.ch/) (COSS) at ETH Zürich
 
-javier.argota@gess.ethzm.ch
+
 
 27-Feb-2023 for **Datathink 2023**.
 
@@ -51,7 +52,7 @@ b.
 
 ## Acknowledgments
 
-The Co-Sense unit has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168.
+The Co-Sense unit has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at the Chair Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168. Javier Argota Sánchez-Vaquerizo's research is as well supported by CoCi (ERC grant).
 
 <img src="coci_erc_logo.jpg" alt="CoCi ERC logo" style="height: 200px;"/>
 
