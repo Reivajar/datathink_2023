@@ -52,7 +52,7 @@ b.
 
 ## Acknowledgments
 
-The Co-Sense unit has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at the Chair Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168. Javier Argota Sánchez-Vaquerizo's research is as well supported by CoCi (ERC grant).
+The Co-Sense unit and the associated software has been designed by Dr. Sachit Mahajan (sachit.mahajan@gess.ethz.ch) at the Chair Computation Social Science as part of the [Co-Evolving City Project (CoCi)](https://coss.ethz.ch/research/CoCi.html) which has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 re- search and innovation programme under grant agreement No. 833168. Javier Argota Sánchez-Vaquerizo's research is as well supported by CoCi (ERC grant).
 
 <img src="coci_erc_logo.jpg" alt="CoCi ERC logo" style="height: 200px;"/>
 
